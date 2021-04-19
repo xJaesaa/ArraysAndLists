@@ -1,0 +1,16 @@
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.csprojAssemblyReference.cache
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.AssemblyInfoInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.AssemblyInfo.cs
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.csproj.CoreCompileInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\aandltask.exe
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\aandltask.deps.json
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\aandltask.runtimeconfig.json
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\aandltask.runtimeconfig.dev.json
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\aandltask.dll
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\ref\aandltask.dll
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\bin\Debug\net5.0\aandltask.pdb
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.dll
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\ref\aandltask.dll
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.pdb
+D:\FoldersnShit\TAFE_Work\Programming\ArraysAndLists\AandLTask\obj\Debug\net5.0\aandltask.genruntimeconfig.cache
